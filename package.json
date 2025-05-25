@@ -1,0 +1,19 @@
+{
+  "name": "cssfoundations",
+  "version": "1.0.0",
+  "description": "To Learn Basic CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndprajapat8/cssFoundations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vndprajapat8/cssFoundations/issues"
+  },
+  "homepage": "https://github.com/vndprajapat8/cssFoundations#readme"
+}
